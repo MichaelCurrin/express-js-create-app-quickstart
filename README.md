@@ -1,11 +1,32 @@
 # Express JS Create App Quickstart
 > Base project generated from the Express CLI
 
-Created using:
+
+## Create app
 
 ```sh
-express .
+$ npx express-generator
 ```
+
+Earlier versions of NodeJS:
+
+```sh
+$ npm install -g express-generator
+```
+
+```sh
+$ express .
+```
+
+You can also choose a view engine.
+
+- Default: `jade`
+- Options: `ejs|hbs|hjs|jade|pug|twig|vash`
+- Example: `--view=pug`
+
+
+[Expression generator](https://expressjs.com/en/starter/generator.html) in the docs.
+
 
 ## Requirements
 
