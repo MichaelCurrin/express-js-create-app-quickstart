@@ -69,6 +69,7 @@ $ npm serve
 Open in the browser.
 
 - http://localhost:3000
+- http://localhost:3000/users
 
 
 ## License
