@@ -1,8 +1,11 @@
 {
   "name": "express-js-create-app-quickstart",
   "version": "0.0.1",
-  "description": "A base REST API project using Express and Node",
-  "main": "server.js",
+  "description": "Base project generated from the Express CLI",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MichaelCurrin/express-js-create-app-quickstart.git"
@@ -19,6 +22,11 @@
   },
   "homepage": "https://github.com/MichaelCurrin/express-js-create-app-quickstart#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.0"
   }
 }
