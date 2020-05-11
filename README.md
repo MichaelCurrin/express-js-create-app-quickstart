@@ -4,9 +4,16 @@
 
 ## Create app
 
+See [Expression generator](https://expressjs.com/en/starter/generator.html) in the docs.
+
+
+### Using NPX
+
 ```sh
 $ npx express-generator
 ```
+
+### Using NPM
 
 Earlier versions of NodeJS:
 
@@ -18,23 +25,22 @@ $ npm install -g express-generator
 $ express .
 ```
 
-You can also choose a view engine.
+### Config options
+
+You can choose a view engine.
 
 - Default: `jade`
 - Options: `ejs|hbs|hjs|jade|pug|twig|vash`
 - Example: `--view=pug`
 
 
-[Expression generator](https://expressjs.com/en/starter/generator.html) in the docs.
-
 
 ## Requirements
 
-- NodeJS
+- [NodeJS](https://nodejs.org)
 
 
 ## Installation
-
 
 ### Install system dependencies
 
@@ -52,7 +58,7 @@ $ cd express-js-create-app-quickstart
 ### Install project dependencies
 
 ```sh
-npm install
+$ npm install
 ```
 
 
@@ -66,7 +72,7 @@ Start local dev server.
 $ npm serve
 ```
 
-Open in the browser.
+Open in the browser:
 
 - http://localhost:3000
 - http://localhost:3000/users
