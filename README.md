@@ -9,13 +9,15 @@ See [Expression generator](https://expressjs.com/en/starter/generator.html) in t
 
 ### Using NPX
 
+Run the quickstart template generator _without_ installing it.
+
 ```sh
 $ npx express-generator
 ```
 
 ### Using NPM
 
-Earlier versions of NodeJS:
+For earlier versions of NodeJS, install and then run.
 
 ```sh
 $ npm install -g express-generator
@@ -33,7 +35,7 @@ You can choose a view engine.
 - Options: `ejs|hbs|hjs|jade|pug|twig|vash`
 - Example: `--view=pug`
 
-
+See [Pug.js](https://pugjs.org/) homepage.
 
 ## Requirements
 
