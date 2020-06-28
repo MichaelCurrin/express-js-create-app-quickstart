@@ -37,6 +37,7 @@ You can choose a view engine.
 
 See [Pug.js](https://pugjs.org/) homepage.
 
+
 ## Requirements
 
 - [NodeJS](https://nodejs.org)
@@ -78,6 +79,12 @@ Open in the browser:
 
 - http://localhost:3000
 - http://localhost:3000/users
+
+
+## Resources
+
+- [React](https://reactjs.org/) homepage
+- [Node.js (Express) with TypeScript, Eslint, Jest, Prettier and Husky - Part 1](https://dev.to/ornio/node-js-express-with-typescript-eslint-jest-prettier-and-husky-part-1-1lin) blog post
 
 
 ## License
