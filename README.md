@@ -40,7 +40,7 @@ See [Pug.js](https://pugjs.org/) homepage.
 
 ## Requirements
 
-- [NodeJS](https://nodejs.org)
+- Node.js
 
 
 ## Installation
@@ -49,9 +49,9 @@ See [Pug.js](https://pugjs.org/) homepage.
 
 Install NodeJS using this [gist](https://gist.github.com/MichaelCurrin/aa1fc56419a355972b96bce23f3bccba).
 
-### Clone project
+### Clone
 
-Clone repo.
+Clone the repo.
 
 ```sh
 $ git clone git@github.com:MichaelCurrin/express-js-create-app-quickstart.git
