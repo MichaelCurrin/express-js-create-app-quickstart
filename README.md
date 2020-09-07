@@ -1,41 +1,5 @@
-# Express JS Create App Quickstart
+# Express JS Quickstart
 > Base project generated from the Express CLI
-
-
-## Create app
-
-See [Expression generator](https://expressjs.com/en/starter/generator.html) in the docs.
-
-
-### Using NPX
-
-Run the quickstart template generator _without_ installing it.
-
-```sh
-$ npx express-generator
-```
-
-### Using NPM
-
-For earlier versions of NodeJS, install and then run.
-
-```sh
-$ npm install -g express-generator
-```
-
-```sh
-$ express .
-```
-
-### Config options
-
-You can choose a view engine.
-
-- Default: `jade`
-- Options: `ejs|hbs|hjs|jade|pug|twig|vash`
-- Example: `--view=pug`
-
-See [Pug.js](https://pugjs.org/) homepage.
 
 
 ## Requirements
@@ -79,6 +43,43 @@ Open in the browser:
 
 - http://localhost:3000
 - http://localhost:3000/users
+
+
+
+## Create your own app using the create app CLI
+
+See [Expression generator](https://expressjs.com/en/starter/generator.html) in the docs.
+
+
+### Using NPX
+
+Run the quickstart template generator _without_ installing it.
+
+```sh
+$ npx express-generator
+```
+
+### Using NPM
+
+For earlier versions of NodeJS, install and then run.
+
+```sh
+$ npm install -g express-generator
+```
+
+```sh
+$ express .
+```
+
+### Config options
+
+You can choose a view engine.
+
+- Default: `jade`
+- Options: `ejs|hbs|hjs|jade|pug|twig|vash`
+- Example: `--view=pug`
+
+See [Pug.js](https://pugjs.org/) homepage.
 
 
 ## Resources
