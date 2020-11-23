@@ -4,7 +4,9 @@
   "description": "Base project generated from the Express CLI",
   "main": "src/app.js",
   "scripts": {
-    "start": "node ./src/bin/www"
+    "start": "node ./src/bin/www",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -27,6 +29,8 @@
     "express": "^4.17.1",
     "http-errors": "^1.7.3",
     "jade": "~1.11.0",
-    "morgan": "^1.10.0"
-  }
+    "morgan": "^1.10.0",
+    "snyk": "^1.430.2"
+  },
+  "snyk": true
 }
