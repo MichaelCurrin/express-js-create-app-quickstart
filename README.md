@@ -10,7 +10,7 @@
 
 ## Requirements
 
-- Node.js
+- [Node.js](https://nodejs.org)
 
 
 ## Installation
