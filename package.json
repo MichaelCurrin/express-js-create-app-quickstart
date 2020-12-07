@@ -1,12 +1,13 @@
 {
   "name": "express-js-quickstart",
   "version": "0.1.0",
+  "displayName": "Express JS Quickstart",
   "description": "A starter project generated with the Express CLI",
   "author": "Michael Currin",
   "license": "MIT",
   "main": "src/app.js",
   "scripts": {
-    "start": "node ./src/bin/www",
+    "start": "node src/bin/www",
     "snyk-protect": "snyk protect",
     "prepublish": "npm run snyk-protect"
   },
