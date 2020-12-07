@@ -17,7 +17,7 @@
 
 ### Install system dependencies
 
-Install NodeJS using this [gist](https://gist.github.com/MichaelCurrin/aa1fc56419a355972b96bce23f3bccba).
+Install Node.js using insructions in this [gist](https://gist.github.com/MichaelCurrin/aa1fc56419a355972b96bce23f3bccba).
 
 ### Clone
 
@@ -57,7 +57,7 @@ Open in the browser:
 See [Expression generator](https://expressjs.com/en/starter/generator.html) in the docs.
 
 
-### Using NPX
+### Use NPX
 
 Run the quickstart template generator _without_ installing it.
 
@@ -65,9 +65,9 @@ Run the quickstart template generator _without_ installing it.
 $ npx express-generator
 ```
 
-### Using NPM
+### Use NPM
 
-For earlier versions of NodeJS, install and then run.
+For _earlier_ versions of Node.js, install and then run.
 
 ```sh
 $ npm install -g express-generator
@@ -85,13 +85,14 @@ You can choose a view engine.
 - Options: `ejs|hbs|hjs|jade|pug|twig|vash`
 - Example: `--view=pug`
 
-See [Pug.js](https://pugjs.org/) homepage.
+See the [Pug.js](https://pugjs.org/) homepage for how to use `.pug` files.
 
 
 ## Resources
 
-- [React](https://reactjs.org/) homepage
+- [Express.js](https://expressjs.com/) homepage
 - [Node.js (Express) with TypeScript, Eslint, Jest, Prettier and Husky - Part 1](https://dev.to/ornio/node-js-express-with-typescript-eslint-jest-prettier-and-husky-part-1-1lin) blog post
+- [![MichaelCurrin - node-project-template](https://img.shields.io/static/v1?label=MichaelCurrin&message=node-project-template&color=blue&logo=github)](https://github.com/MichaelCurrin/node-project-template) - a related template project. 
 
 
 ## License
