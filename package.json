@@ -1,6 +1,6 @@
 {
   "name": "express-js-create-app-quickstart",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Base project generated from the Express CLI",
   "main": "src/app.js",
   "scripts": {
