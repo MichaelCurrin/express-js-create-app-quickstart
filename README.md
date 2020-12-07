@@ -6,6 +6,7 @@
 
 [![Node.js - >=12](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org)
 [![Package - express](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/express-js-quickstart/express)](https://www.npmjs.com/package/express)
+[![Known Vulnerabilities](https://snyk.io/test/github/MichaelCurrin/express-js-quickstart/badge.svg)](https://snyk.io/test/github/MichaelCurrin/express-js-quickstart)
 
 
 ## Requirements
