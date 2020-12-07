@@ -1,36 +1,36 @@
 {
-  "name": "express-js-create-app-quickstart",
+  "name": "express-js-quickstart",
   "version": "0.1.0",
-  "description": "Base project generated from the Express CLI",
+  "description": "A starter project generated with the Express CLI",
+  "author": "Michael Currin",
+  "license": "MIT",
   "main": "src/app.js",
   "scripts": {
     "start": "node ./src/bin/www",
     "snyk-protect": "snyk protect",
     "prepublish": "npm run snyk-protect"
   },
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "http-errors": "^1.7.3",
+    "jade": "^1.11.0",
+    "morgan": "^1.10.0",
+    "snyk": "^1.434.2"
+  },
+  "snyk": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MichaelCurrin/express-js-create-app-quickstart.git"
+    "url": "git+https://github.com/MichaelCurrin/express-js-quickstart.git"
   },
   "keywords": [
     "express",
     "node",
     "base"
   ],
-  "author": "Michael Currin",
-  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MichaelCurrin/express-js-create-app-quickstart/issues"
+    "url": "https://github.com/MichaelCurrin/express-js-quickstart/issues"
   },
-  "homepage": "https://github.com/MichaelCurrin/express-js-create-app-quickstart#readme",
-  "dependencies": {
-    "cookie-parser": "~1.4.3",
-    "debug": "^4.1.1",
-    "express": "^4.17.1",
-    "http-errors": "^1.7.3",
-    "jade": "~1.11.0",
-    "morgan": "^1.10.0",
-    "snyk": "^1.434.2"
-  },
-  "snyk": true
+  "homepage": "https://github.com/MichaelCurrin/express-js-quickstart#readme"
 }
