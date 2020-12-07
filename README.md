@@ -1,5 +1,5 @@
 # Express JS Quickstart
-> Base project generated from the Express CLI
+> A starter project generated with the Express CLI
 
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/express-js-quickstart?include_prereleases&sort=semver)](https://github.com/MichaelCurrin/express-js-quickstart/releases/)
 [![License - MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
@@ -21,11 +21,11 @@ Install NodeJS using this [gist](https://gist.github.com/MichaelCurrin/aa1fc5641
 
 ### Clone
 
-Clone the repo.
+Clone the repo:
 
 ```sh
-$ git clone git@github.com:MichaelCurrin/express-js-create-app-quickstart.git
-$ cd express-js-create-app-quickstart
+$ git clone git@github.com:MichaelCurrin/express-js-quickstart.git
+$ cd express-js-quickstart
 ```
 
 ### Install project dependencies
