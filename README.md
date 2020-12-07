@@ -1,6 +1,12 @@
 # Express JS Quickstart
 > Base project generated from the Express CLI
 
+[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/express-js-quickstart?include_prereleases&sort=semver)](https://github.com/MichaelCurrin/express-js-quickstart/releases/)
+[![License - MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
+
+[![Node.js - >=12](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org)
+[![Package - express](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/express-js-quickstart/express)](https://www.npmjs.com/package/express)
+
 
 ## Requirements
 
