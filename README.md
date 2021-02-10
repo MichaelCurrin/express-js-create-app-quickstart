@@ -91,7 +91,11 @@ See the [Pug.js](https://pugjs.org/) homepage for how to use `.pug` files.
 
 - [Express.js](https://expressjs.com/) homepage
 - [Node.js (Express) with TypeScript, Eslint, Jest, Prettier and Husky - Part 1](https://dev.to/ornio/node-js-express-with-typescript-eslint-jest-prettier-and-husky-part-1-1lin) blog post
-- [![MichaelCurrin - node-project-template](https://img.shields.io/static/v1?label=MichaelCurrin&message=node-project-template&color=blue&logo=github)](https://github.com/MichaelCurrin/node-project-template) - a related template project. 
+
+
+## Related projects
+
+- [![MichaelCurrin - node-project-template](https://img.shields.io/static/v1?label=MichaelCurrin&message=node-project-template&color=blue&logo=github)](https://github.com/MichaelCurrin/node-project-template)
 
 
 ## License
