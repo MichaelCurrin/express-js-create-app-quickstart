@@ -2,10 +2,10 @@
 > A starter project generated with the Express CLI
 
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/express-js-quickstart?include_prereleases&sort=semver)](https://github.com/MichaelCurrin/express-js-quickstart/releases/)
-[![License - MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![License ](https://img.shields.io/badge/License-MIT-blue)](#license)
 
-[![Node.js - >=12](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org)
-[![Package - express](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/express-js-quickstart/express)](https://www.npmjs.com/package/express)
+[![Node.js](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org)
+[![Package - express](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/express-js-quickstart/express?logo=express&logoColor=white)](https://www.npmjs.com/package/express)
 [![Known Vulnerabilities](https://snyk.io/test/github/MichaelCurrin/express-js-quickstart/badge.svg)](https://snyk.io/test/github/MichaelCurrin/express-js-quickstart)
 
 
@@ -40,10 +40,10 @@ $ npm install
 
 ### Serve
 
-Start local dev server.
+Start the local dev server.
 
 ```sh
-$ npm serve
+$ npm start
 ```
 
 Open in the browser:
@@ -52,11 +52,9 @@ Open in the browser:
 - http://localhost:3000/users
 
 
-
 ## Create your own app using the create app CLI
 
 See [Expression generator](https://expressjs.com/en/starter/generator.html) in the docs.
-
 
 ### Use NPX
 
@@ -98,4 +96,4 @@ See the [Pug.js](https://pugjs.org/) homepage for how to use `.pug` files.
 
 ## License
 
-Released under [MIT](/LICENSE)
+Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
