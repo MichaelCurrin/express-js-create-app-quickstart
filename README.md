@@ -48,8 +48,8 @@ $ npm start
 
 Open in the browser:
 
-- http://localhost:3000
-- http://localhost:3000/users
+- Homepage: http://localhost:3000
+- Users endpoint: http://localhost:3000/users
 
 
 ## Create your own app using the create app CLI
