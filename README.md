@@ -95,6 +95,7 @@ See the [Pug.js](https://pugjs.org/) homepage for how to use `.pug` files.
 
 ## Related projects
 
+- [![MichaelCurrin - express-rest-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=express-rest-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/express-rest-quickstart)
 - [![MichaelCurrin - node-project-template](https://img.shields.io/static/v1?label=MichaelCurrin&message=node-project-template&color=blue&logo=github)](https://github.com/MichaelCurrin/node-project-template)
 
 
