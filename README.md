@@ -87,6 +87,13 @@ You can choose a view engine.
 See the [Pug.js](https://pugjs.org/) homepage for how to use `.pug` files.
 
 
+## Dev notes
+
+The `main` field does not seem to serve a purpose but it was added by the template I think so I've left it.
+
+The entrypoint ends up actually being `src/bin/www` as per the `start` script command.
+
+
 ## Resources
 
 - [Express.js](https://expressjs.com/) homepage
