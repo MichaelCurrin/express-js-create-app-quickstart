@@ -1,12 +1,12 @@
 # Express JS Quickstart
 > A starter project generated with the Express CLI
 
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/express-js-quickstart?include_prereleases&sort=semver)](https://github.com/MichaelCurrin/express-js-quickstart/releases/)
+[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/express-quickstart?include_prereleases&sort=semver)](https://github.com/MichaelCurrin/express-quickstart/releases/)
 [![License ](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 [![Node.js](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org)
-[![Package - express](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/express-js-quickstart/express?logo=express&logoColor=white)](https://www.npmjs.com/package/express)
-[![Known Vulnerabilities](https://snyk.io/test/github/MichaelCurrin/express-js-quickstart/badge.svg)](https://snyk.io/test/github/MichaelCurrin/express-js-quickstart)
+[![Package - express](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/express-quickstart/express?logo=express&logoColor=white)](https://www.npmjs.com/package/express)
+[![Known Vulnerabilities](https://snyk.io/test/github/MichaelCurrin/express-quickstart/badge.svg)](https://snyk.io/test/github/MichaelCurrin/express-quickstart)
 
 
 ## Requirements
@@ -25,8 +25,8 @@ Install Node.js using insructions in this [gist](https://gist.github.com/Michael
 Clone the repo:
 
 ```sh
-$ git clone git@github.com:MichaelCurrin/express-js-quickstart.git
-$ cd express-js-quickstart
+$ git clone git@github.com:MichaelCurrin/express-quickstart.git
+$ cd express-quickstart
 ```
 
 ### Install project dependencies
