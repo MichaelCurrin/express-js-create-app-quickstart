@@ -2,7 +2,7 @@
 > A starter project generated with the Express CLI
 
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/express-quickstart?include_prereleases&sort=semver)](https://github.com/MichaelCurrin/express-quickstart/releases/)
-[![License ](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 [![Node.js](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org)
 [![Package - express](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/express-quickstart/express?logo=express&logoColor=white)](https://www.npmjs.com/package/express)
@@ -52,21 +52,38 @@ Open in the browser:
 - Users endpoint: http://localhost:3000/users
 
 
-## Create your own app using the create app CLI
+## Create a fresh app
 
-See [Expression generator](https://expressjs.com/en/starter/generator.html) in the docs.
+Using the Express create app CLI.
+
+See more info on the [Expression generator](https://expressjs.com/en/starter/generator.html) in the docs.
 
 ### Use NPX
 
-Run the quickstart template generator _without_ installing it.
+Run the quickstart template generator. You can run this without installing it first.
 
 ```sh
 $ npx express-generator
 ```
 
+e.g.
+
+```sh
+$ mkdir my-app
+$ cd my-app
+$ npx express-generator
+```
+
+Or
+
+```sh
+$ npx express-generator my-app
+$ cd my-app
+```
+
 ### Use NPM
 
-For _earlier_ versions of Node.js, install and then run.
+For _earlier_ versions of Node.js, install globally and then run.
 
 ```sh
 $ npm install -g express-generator
