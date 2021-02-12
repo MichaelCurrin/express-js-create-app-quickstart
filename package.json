@@ -1,7 +1,6 @@
 {
   "name": "express-quickstart",
   "version": "0.2.0",
-  "main": "src/app.js",
   "scripts": {
     "start": "node src/bin/www",
     "snyk-protect": "snyk protect",
@@ -17,21 +16,6 @@
     "snyk": "^1.434.2"
   },
   "snyk": true,
-  "displayName": "Express JS Quickstart",
-  "description": "A starter project generated with the Express CLI",
   "author": "Michael Currin",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MichaelCurrin/express-quickstart.git"
-  },
-  "bugs": {
-    "url": "https://github.com/MichaelCurrin/express-quickstart/issues"
-  },
-  "homepage": "https://github.com/MichaelCurrin/express-quickstart#readme",
-  "keywords": [
-    "express",
-    "node",
-    "base"
-  ]
+  "license": "MIT"
 }
